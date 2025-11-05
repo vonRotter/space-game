@@ -1,2 +1,2 @@
 # space-game
-Game project created in Makko AI Studio
+I am making a MUD
